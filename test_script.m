@@ -5,4 +5,6 @@ a=20;
 b=30;
 c=a+b;
 disp(c);
-disp('Vianney git repository for MAtlab');
+disp('Vianney git repository for Matlab');
+disp(datetime);
+disp('Vianney git repository for Matlab projects -version2');
